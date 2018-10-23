@@ -1,13 +1,13 @@
 {
   "default": {
-    "width": 1280,
-    "height": 720,
+    "width": 1920,
+    "height": 1080,
     "framesPerSecond": 20,
-    "maxDuration": 300,
+    "maxDuration": 7200,
     "samplesPerFrame": 128,
     "pattern": "wave",
-    "waveTop": 150,
-    "waveBottom": 420,
+    "waveTop": 800,
+    "waveBottom": 1040,
     "captionTop": 470,
     "captionFont": "300 52px 'Source Sans Pro'",
     "captionLineHeight": 52,
@@ -16,8 +16,8 @@
     "captionRight": 1080
   },
   "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
+    "backgroundColor": "#000",
+    "foregroundColor": "#fff"
   },
   "Neon": {
     "backgroundColor": "#556270",
